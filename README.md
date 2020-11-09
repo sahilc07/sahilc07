@@ -1,4 +1,5 @@
-<h1>Hi there, I am Sahil Chowdhury 👋</h1>
+<h1>Hi there, I am Sahil Chowdhury <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+</h1>
 
 ![](https://komarev.com/ghpvc/?username=sahilc07&style=plastic)
 
