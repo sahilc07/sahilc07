@@ -20,7 +20,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilc07&layout=compact&bg_color=0B0B0B&title_color=F828AC&icon_color=bb2acf&text_color=71ECF7">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sahilc07&&show_icons=true&title_color=F828AC&icon_color=bb2acf&text_color=71ECF7&bg_color=151515">
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sahilc07&theme=dark&show_icons=true)
 
 <h2>You can reach me out on <img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Earth.gif" width="20" height="20"> :</h2>
 <p><img src="https://camo.githubusercontent.com/395dda360ae28377b7c3247581a88b20573883519c2be833cb64fbb37dcbcc1a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f747769747465722e737667" width="20" height="17">&nbsp; &nbsp;<a href="https://twitter.com/SahilChowdhur12">@SahilChowdhur12</a></p>
