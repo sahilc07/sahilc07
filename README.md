@@ -1,6 +1,6 @@
 <h1>Hi there, I am Sahil Chowdhury 👋</h1>
 
-[![visits](https://github-visit-counter.herokuapp.com/{sahilc07}/{repo}/visits.svg)](#)
+![](https://komarev.com/ghpvc/?username=sahilc07&style=plastic)
 
 <h3>Flutter Developer || Cybersecurity Enthusiast || Event Head at Codezilla Mozilla Community || Speaker</h3>
 
