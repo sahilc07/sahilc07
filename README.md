@@ -1,6 +1,10 @@
-<h2>Hi there, I am Sahil Chowdhury 👋</h2>
+<h1>Hi there, I am Sahil Chowdhury 👋</h1>
 
-- 🔭 I’m currently Student 
+[![visits](https://github-visit-counter.herokuapp.com/{sahilc07}/{repo}/visits.svg)](#)
+
+<h3>Flutter Developer || Cybersecurity Enthusiast || Event Head at Codezilla Mozilla Community || Speaker</h3>
+
+- 🔭 I’m currently B Tech. Student at SRM Institute of Science and Technology, Ramapuram
 
 - 🌱 I’m currently learning <b>Flutter</b>, <b>Java</b>, <b>Data Structures</b>, <b>everything I get fascinated with😉</b>
 
@@ -8,9 +12,11 @@
 
 - 👯 I’m looking to collaborate on Flutter projects
 
+- 📝 I write articles on <a href="https://medium.com/@sahilc0708">Medium</a></p>
+
 - 😄 Pronouns: He/His
 
-- ⚡ Fun fact: Love to cook 👨🏻‍🍳, watching horror movies 👻, reading fiction novels📓
+- ⚡ Fun fact: Love to cook 👨🏻‍🍳, watching horror movies 👻, reading fiction novels 📓, listening songs 🎶
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilc07&layout=compact&bg_color=0B0B0B&title_color=F828AC&icon_color=bb2acf&text_color=71ECF7">
 
